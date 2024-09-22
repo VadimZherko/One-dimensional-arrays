@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/One-dimensional_arrays.dir/One-dimensional_arrays.cpp.o" -o One-dimensional_arrays

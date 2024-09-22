@@ -1,0 +1,3 @@
+/home/vadim/repository/One-dimensional_arrays/build/CMakeFiles/One-dimensional_arrays.dir
+/home/vadim/repository/One-dimensional_arrays/build/CMakeFiles/edit_cache.dir
+/home/vadim/repository/One-dimensional_arrays/build/CMakeFiles/rebuild_cache.dir
